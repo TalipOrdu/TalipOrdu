@@ -21,5 +21,6 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talipordu&show_icons=true&locale=en&layout=compact" alt="talipordu" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talipordu&show_icons=true&locale=en" alt="talipordu" /></p>
 <hr>
