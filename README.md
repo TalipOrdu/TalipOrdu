@@ -40,5 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talipordu&show_icons=true&locale=en" alt="talipordu" /></p>
 <hr>
 [![GitHub](https://img.shields.io/badge/dynamic/json?label=Followers&color=red&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGood4lien&longCache=true)](https://github.com/TalipOrdu)
-![](https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/TalipOrdu)
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+(https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/TalipOrdu)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/TalipOrdu&color=Chartreuse)
