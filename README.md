@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talipordu&show_icons=true&locale=en" alt="talipordu" /></p>
 <hr>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TalipOrdu&label=Profile%20views&color=ce9927&style=flat" alt="TalipOrdu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TalipOrdu&label=Profile%20views&color=ce9927&style=flat" alt="TalipOrdu" /> </p>
