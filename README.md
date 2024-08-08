@@ -4,9 +4,9 @@
 <h3 align="center">A frontend developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **Html, Css, JavaScript**
+- 💬 Ask me about **React, JavaScript, SQL**
 
 - 📫 How to reach me **ordu.talip007@gmail.com**
 
@@ -34,6 +34,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <!--mysql-->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <!--cpp-->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a> <!--tailwind-->
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png" alt="NodeJs" width="40" height="40"/> </a> <!--NodeJS-->
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talipordu&show_icons=true&locale=en&layout=compact" alt="talipordu" /></p>
 
