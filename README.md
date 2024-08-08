@@ -23,7 +23,7 @@
 <a href="https://www.w3.org/php/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="html5" width="40" height="40"/>
 </a> <!--php--> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" alt="bootstrap" width="40" height="40"/> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a> 
  <!--bootstrap-->
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!--git-->
